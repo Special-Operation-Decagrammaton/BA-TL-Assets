@@ -1,15 +1,15 @@
 {
-  "StringVersion": "r89_74dd7t4wm6q09ho7a99h",
+  "StringVersion": "r90_2xxy4jbwpp3v2iaiug4c",
   "Files": [
     {
       "OriginalFileName": "ExcelDB.db",
-      "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_3011745964",
-      "Hash": 3554705624
+      "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_1577789575",
+      "Hash": 4205837182
     },
     {
       "OriginalFileName": "resources.assets",
       "Path": "BlueArchive_Data/resources.assets",
-      "Hash": 3499152481
+      "Hash": 714254929
     }
   ]
 }
