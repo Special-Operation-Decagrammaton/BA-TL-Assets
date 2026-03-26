@@ -1,15 +1,17 @@
 {
-  "StringVersion": "r90_7yfsnklfa1mi7ag2fosr",
+  "PatchNote": "Forced Update\n",
+  "UpdateDate": "26-03-2026 05:54",
+  "StringVersion": "b77716fba7e3409e-r90_7yfsnklfa1mi7ag2fosr",
   "Files": [
     {
       "OriginalFileName": "ExcelDB.db",
       "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_1577789575",
-      "Hash": 2341044653
+      "Hash": 2905940154
     },
     {
       "OriginalFileName": "resources.assets",
       "Path": "BlueArchive_Data/resources.assets",
-      "Hash": 347365029
+      "Hash": 3909699037
     }
   ]
 }
