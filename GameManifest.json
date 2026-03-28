@@ -1,12 +1,12 @@
 {
-  "PatchNote": "feat: remove subaru translation to match with global\n",
-  "UpdateDate": "26-03-2026 05:54",
+  "PatchNote": "feat: konoka momotalk & bond story\n",
+  "UpdateDate": "28-03-2026 09:33",
   "StringVersion": "b77716fba7e3409e-r90_7yfsnklfa1mi7ag2fosr",
   "Files": [
     {
       "OriginalFileName": "ExcelDB.db",
       "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_1577789575",
-      "Hash": 2262529505
+      "Hash": 4212270101
     },
     {
       "OriginalFileName": "resources.assets",
