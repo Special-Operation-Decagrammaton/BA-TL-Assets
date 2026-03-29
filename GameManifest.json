@@ -1,12 +1,12 @@
 {
-  "PatchNote": "fix: konoka line & character name\n",
-  "UpdateDate": "29-03-2026 06:00",
+  "PatchNote": "fix: konoka new line\n",
+  "UpdateDate": "29-03-2026 12:41",
   "StringVersion": "b77716fba7e3409e-r90_7yfsnklfa1mi7ag2fosr",
   "Files": [
     {
       "OriginalFileName": "ExcelDB.db",
       "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_1577789575",
-      "Hash": 416414490
+      "Hash": 2933827282
     },
     {
       "OriginalFileName": "resources.assets",
