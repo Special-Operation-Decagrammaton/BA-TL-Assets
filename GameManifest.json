@@ -1,12 +1,12 @@
 {
-  "PatchNote": "fix: dmichiru proper cut-off word\nfix: missing dmichiru lines & new line\n",
-  "UpdateDate": "31-03-2026 06:15",
-  "StringVersion": "b77716fba7e3409e-r90_7yfsnklfa1mi7ag2fosr",
+  "PatchNote": "JP Update (r90_6yxzc1onh2ek80p4g0vf)\n",
+  "UpdateDate": "01-04-2026 08:02",
+  "StringVersion": "b77716fba7e3409e-r90_6yxzc1onh2ek80p4g0vf",
   "Files": [
     {
       "OriginalFileName": "ExcelDB.db",
-      "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_1577789575",
-      "Hash": 3602326069
+      "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_4150243569",
+      "Hash": 3656908521
     },
     {
       "OriginalFileName": "resources.assets",
