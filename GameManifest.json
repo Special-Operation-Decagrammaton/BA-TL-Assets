@@ -1,12 +1,12 @@
 {
-  "PatchNote": "JP Update (r90_6yxzc1onh2ek80p4g0vf)\n",
-  "UpdateDate": "01-04-2026 08:02",
+  "PatchNote": "feat: translated u.akane\n",
+  "UpdateDate": "02-04-2026 14:55",
   "StringVersion": "b77716fba7e3409e-r90_6yxzc1onh2ek80p4g0vf",
   "Files": [
     {
       "OriginalFileName": "ExcelDB.db",
       "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_4150243569",
-      "Hash": 3656908521
+      "Hash": 2381803579
     },
     {
       "OriginalFileName": "resources.assets",
