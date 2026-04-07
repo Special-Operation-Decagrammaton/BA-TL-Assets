@@ -1,12 +1,12 @@
 {
-  "PatchNote": "JP Update (r90_er97c3tn4z0sjydpjmcb)\nGL Update (e941078d208b40bc)\n",
-  "UpdateDate": "07-04-2026 09:49",
+  "PatchNote": "feat: remove yakumo and takane lines - remove lots of UI Text (error, etc, skill, etc)\n",
+  "UpdateDate": "07-04-2026 10:25",
   "StringVersion": "e941078d208b40bc-r90_er97c3tn4z0sjydpjmcb",
   "Files": [
     {
       "OriginalFileName": "ExcelDB.db",
       "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_2062641314",
-      "Hash": 380862896
+      "Hash": 872721538
     },
     {
       "OriginalFileName": "resources.assets",
