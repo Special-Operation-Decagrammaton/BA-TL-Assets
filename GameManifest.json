@@ -1,6 +1,6 @@
 {
-  "PatchNote": "fix: d.michiru + b.eimi L2D & story\n",
-  "UpdateDate": "10-04-2026 14:25",
+  "PatchNote": "fix: d.michiru lines\n",
+  "UpdateDate": "11-04-2026 10:07",
   "StringVersion": "259b7d016f964267-r90_er97c3tn4z0sjydpjmcb",
   "Files": [
     {
@@ -11,7 +11,7 @@
     {
       "OriginalFileName": "ExcelDB.db",
       "Path": "BlueArchive_Data/StreamingAssets/TableBundles/6993339912994747134_2062641314",
-      "Hash": 3715181949
+      "Hash": 4085793276
     }
   ]
 }
